@@ -12,7 +12,7 @@ This project involves a survey experiment conducted to investiagte and analyze p
 
 <img width="265" alt="Screenshot 2025-05-21 at 1 35 16 AM" src="https://github.com/user-attachments/assets/0484b138-7768-4142-8783-f5f91dffdf2e" /> 
 
-Factors affecting Consumer Purchasing Behavior and Product Perception
+[Factors affecting Consumer Purchasing Behavior and Product Perception](https://mdins22.github.io/Consumer-Purchasing-Behavior/)
 
 This experiment involves a manipulation investigating what impact various disount and pomrotional framings have effects on consumer's willingness to purchase products.
 
