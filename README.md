@@ -19,5 +19,6 @@ This experiment involves a manipulation investigating what impact various disoun
 # Key Skills
 
 Software: Qualitrics, R studio, Adobe Creative Cloud/ Adobe XD
+
 Languages: R, Python, JavaScript
 
