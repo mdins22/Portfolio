@@ -15,3 +15,9 @@ This project involves a survey experiment conducted to investiagte and analyze p
 Factors affecting Consumer Purchasing Behavior and Product Perception
 
 This experiment involves a manipulation investigating what impact various disount and pomrotional framings have effects on consumer's willingness to purchase products.
+
+# Key Skills
+
+Software: Qualitrics, R studio, Adobe Creative Cloud/ Adobe XD
+Languages: R, Python, JavaScript
+
