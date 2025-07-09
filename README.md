@@ -8,7 +8,7 @@ Email: mdinsmore@umass.edu
 
 [Social Media and Mental Health Survey and Analysis](https://mdins22.github.io/604-Dashboard/)
 
-This project involves a survey experiment conducted to investiagte and analyze potential relationships between social media use and certain psychological outcomes
+This project involves a survey experiment conducted to investiagte and analyze potential relationships between social media use and certain psychological outcomes. Included in this link are graphs showing relationships and associations between different measured variables, tailored towards an academic audience.
 
 <img width="265" alt="Screenshot 2025-05-21 at 1 35 16 AM" src="https://github.com/user-attachments/assets/0484b138-7768-4142-8783-f5f91dffdf2e" /> 
 
