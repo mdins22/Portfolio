@@ -1,4 +1,4 @@
-# Data Analytics Portfolio - Megan Dinsmore
+# UI/UX Research and Design Portfolio - Megan Dinsmore
 Welcome! This portfolio contains a variety of Compuatational Social Science and Data Analysis projects completed throughout my academic and professional career. 
 
 Email: mdinsmore@umass.edu
